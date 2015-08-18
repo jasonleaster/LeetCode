@@ -1,3 +1,10 @@
+"""
+Programmer  :   EOF
+Date        :   2015.04.28
+File        :   cp.py
+E-mail      :   jasonleaster@gmail.com
+
+"""
 import math
 
 class Solution:
